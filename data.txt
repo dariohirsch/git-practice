@@ -1,3 +1,5 @@
 Name: caca
 age: 30
 favorite color: azul   ,
+comida: papas
+bebidas: nada
